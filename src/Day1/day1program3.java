@@ -1,4 +1,4 @@
-package dailyproblems;
+package Day1;
 import java.util.*;
 public class day1program3 {
         public static void main(String[] args) {
