@@ -1,4 +1,4 @@
-package Day8;
+package dailyproblems;
 
 import java.util.Scanner;
 
